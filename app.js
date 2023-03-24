@@ -22,7 +22,7 @@ const options = {
         },
         servers: [
             { url: 'http://localhost:3000' },
-            { url: 'https://one-read-v2.herokuapp.com' }
+            { url: 'https://reading-api.onrender.com' }
         ]
     },
     apis: ['./swagger/*.js']
